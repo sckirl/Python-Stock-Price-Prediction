@@ -9,7 +9,7 @@ from threading import Thread
 
 name = "AAPL"
 
-TOKEN = "1718794376:AAEcGyO2aHcMdjPy6Rbz4HbZdMFJpowPHwc"
+TOKEN = "Your Telegram Bot Token here"
 bot = telebot.TeleBot(TOKEN)
 savedStock = None
 
